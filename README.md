@@ -16,5 +16,5 @@ The chef with ultimate decision making power and her group of investors.  This d
 
 <b> Data Sources </b> 
 Foursquare https://foursquare.com/
-The venue and location data will be used to assess the best place to open. For example, are similar venues nearby?  That would help show clientele is in the area.  Location information will help answer where exactly to rent a building to open the restaurant.  Foursquare data can also be used to access reviews in order to do some other planning before opening based on client feedback in that area.
+The venue and location data will be used to assess the best place to open. For example, are similar venues nearby?  That would help show clientele is in the area.  Location information will help answer where exactly to rent a building to open the restaurant.  Foursquare data can also be used to access reviews in order to do some other planning before opening based on client feedback in that area.  Based on popularity of downtown restaurants we are sure we can get enough venue information which is a feature of Foursquare.  For more information on how Foursquare data can be used, check out this article: https://www.eater.com/2015/4/24/8486279/restaurant-recommendation-apps-foursquare-algorithms
 
