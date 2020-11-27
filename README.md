@@ -5,7 +5,7 @@ This notebook will mainly be used for the Data Science Capstone Project.
 ### Fancy Restaurant Location - Detroit MI
 
 <b>Introduction</b>
-A chef has saved the money and would like to open a new restaurant somewhere in the Detroit area.  The chef knows plans to have an upscale steak house restaurant and would like to attract appropriate clientele.  The meals will be in above average cost ranges. The chef thinks downtown will be the best location, however, would like to run analysis on some data in order to be sure to pick the best location.
+A chef has saved the money and would like to open a new restaurant somewhere in the Detroit area. The menu will focus on steak and seafood. The chef plans to have an upscale steak house restaurant and would like to attract appropriate clientele.  The meals will be in above average cost ranges with a variety of innovative side dishes and deserts. The chef thinks downtown Detroit will be the best location, however, would like to run analysis on some data in order to be sure to pick the best location. The chef wants to ensure there will be enough business coming in and not too much competition. The chef also wants to differentiate from others in the area.
 ![Steak](https://github.com/sforsyth089/Coursera_Capstone/blob/main/fancy%20steak%20picture.jpg)
 
 <b> Business Question </b>
