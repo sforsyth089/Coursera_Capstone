@@ -2,6 +2,7 @@
 GitHub for Class Capstone
 This notebook will mainly be used for the Data Science Capstone Project.
 
+<b>Introduction</b>
 A chef has saved the money and would like to open a new restaurant somewhere in the Detroit area.  The chef knows plans to have an upscale steak house restaurant and would like to attract appropriate clientele.  The meals will be in above average cost ranges. The chef thinks downtown will be the best location, however, would like to run analysis on some data in order to be sure.  
 
 <b> Business Question </b>
