@@ -20,5 +20,7 @@ The venue and location data will be used to assess the best place to open. For e
 
 Zip Code data - https://public.opendatasoft.com/explore/dataset/us-zip-code-latitude-and-longitude/export/
 This open source data was downloaded and limited to Michigan, USA.  Added to my GitHub for reference. Will help to make maps and determine locations.
+In this GitHub: https://github.com/sforsyth089/Coursera_Capstone/blob/main/MI%20Zip%20Codes%20Lat%20Long.csv
 
 Top 25 Wealthiest Cities in MI: https://www.zipdatamaps.com/economics/income/agi/state/wealthiest-zipcodes-in-michigan will be used to determine wealth nearby.  Has zip code to link to the zip code table.
+In this GitHub: https://github.com/sforsyth089/Coursera_Capstone/blob/main/Wealthiest%20Neighborhoods%20in%20MI.csv
